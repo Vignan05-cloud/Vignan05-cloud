@@ -62,7 +62,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vignan-Kodimala&show_icons=true&theme=default&hide_border=true" height="165" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignan-Kodimala&hide_border=true" height="165" alt="streak stats" />
 </div>
-
-<p align="left">
-  <sub>Replace <code>Vignan-Kodimala</code> in the two stat widget URLs above with your exact GitHub username if it's different.</sub>
-</p>
