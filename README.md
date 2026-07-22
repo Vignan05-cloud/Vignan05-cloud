@@ -19,9 +19,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 ###
 <p align="left"><b>I'm Vignan from Hyderabad<br><br>- 🔭 I’m focusing on real-world applications<br>- 📚 I'm currently learning data science with cloud computing<br>- ⚡ In my free time , I frequently focus on pushing my limits </b>🦍</p>
-###
 <h3 align="left">🛠 Language and tools</h3>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
