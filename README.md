@@ -56,9 +56,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
 </div>
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vignan05-cloud&show_icons=true&theme=default&hide_border=true" height="165" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignan05-cloud&hide_border=true" height="165" alt="streak stats" />
-</div>
