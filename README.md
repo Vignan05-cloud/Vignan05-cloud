@@ -59,6 +59,6 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vignan-Kodimala&show_icons=true&theme=default&hide_border=true" height="165" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignan-Kodimala&hide_border=true" height="165" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vignan05-cloud&show_icons=true&theme=default&hide_border=true" height="165" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignan05-cloud&hide_border=true" height="165" alt="streak stats" />
 </div>
